@@ -1,0 +1,45 @@
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\bin\Debug\CBRParser.exe.config
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\bin\Debug\CBRParser.exe
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\bin\Debug\CBRParser.pdb
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.csprojResolveAssemblyReference.cache
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\MainWindow.g.cs
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\App.g.cs
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser_MarkupCompile.cache
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser_MarkupCompile.lref
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\MainWindow.baml
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.g.resources
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.Properties.Resources.resources
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.csproj.GenerateResource.cache
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.csproj.CoreCompileInputs.cache
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.exe
+C:\Users\Borf\Documents\Visual Studio 2017\Projects\CBRParser\obj\Debug\CBRParser.pdb
+D:\CBRParser\obj\Debug\CBRParser.csprojResolveAssemblyReference.cache
+D:\CBRParser\obj\Debug\MainWindow.g.cs
+D:\CBRParser\obj\Debug\App.g.cs
+D:\CBRParser\obj\Debug\CBRParser_MarkupCompile.cache
+D:\CBRParser\obj\Debug\CBRParser_MarkupCompile.lref
+D:\CBRParser\obj\Debug\CBRParser.exe
+D:\CBRParser\obj\Debug\CBRParser.pdb
+D:\CBRParser\bin\Debug\CBRParser.exe.config
+D:\CBRParser\bin\Debug\CBRParser.exe
+D:\CBRParser\bin\Debug\CBRParser.pdb
+D:\CBRParser\obj\Debug\MainWindow.baml
+D:\CBRParser\obj\Debug\CBRParser.g.resources
+D:\CBRParser\obj\Debug\CBRParser.Properties.Resources.resources
+D:\CBRParser\obj\Debug\CBRParser.csproj.GenerateResource.cache
+D:\CBRParser\obj\Debug\CBRParser.csproj.CoreCompileInputs.cache
+E:\CBRParser\bin\Debug\CBRParser.exe.config
+E:\CBRParser\bin\Debug\CBRParser.exe
+E:\CBRParser\bin\Debug\CBRParser.pdb
+E:\CBRParser\obj\Debug\MainWindow.g.cs
+E:\CBRParser\obj\Debug\App.g.cs
+E:\CBRParser\obj\Debug\CBRParser_MarkupCompile.cache
+E:\CBRParser\obj\Debug\CBRParser_MarkupCompile.lref
+E:\CBRParser\obj\Debug\MainWindow.baml
+E:\CBRParser\obj\Debug\CBRParser.g.resources
+E:\CBRParser\obj\Debug\CBRParser.Properties.Resources.resources
+E:\CBRParser\obj\Debug\CBRParser.csproj.GenerateResource.cache
+E:\CBRParser\obj\Debug\CBRParser.csproj.CoreCompileInputs.cache
+E:\CBRParser\obj\Debug\CBRParser.exe
+E:\CBRParser\obj\Debug\CBRParser.pdb
+E:\CBRParser\obj\Debug\CBRParser.csprojResolveAssemblyReference.cache

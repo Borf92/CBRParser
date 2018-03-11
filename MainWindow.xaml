@@ -1,0 +1,21 @@
+﻿<Window x:Class="CBRParser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CBRParser"
+        xmlns:collections="clr-namespace:System.Collections;assembly=mscorlib"
+        xmlns:bizObjModel="clr-namespace:CBRParser.BizObjModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="768" Width="1024">
+    
+    <StackPanel>
+        <Button x:Name="GetDataByLnqFromRemoteServerButton" Height="30" Content="Получить и сохранить данные из задания" Click="GetDataFromXMLByLinqButton_Click" Margin="0,0,704,0" />
+        <Button x:Name="GetDataFromDbButton" Height="30" Content="Загрузить данные из БД и отобразить в таблице" Click="GetDataFromDbButton_Click" Margin="0,0,704,0" />
+        <Grid>
+            <DataGrid x:Name="CurrenciesGrid" AutoGenerateColumns="True" HorizontalGridLinesBrush="DarkGray"
+                  RowBackground="LightGray" AlternatingRowBackground="White" IsReadOnly="True"  Height="670" Width="auto">
+            </DataGrid>
+        </Grid>
+    </StackPanel>
+</Window>
